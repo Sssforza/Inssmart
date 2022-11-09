@@ -47,11 +47,31 @@ body {
 .card {
     width: 846px;
 
+    &__container {
+        position: relative;
+        overflow: hidden;
+    }
+
     &__content {
+        position: relative;
         padding: 40px 60px;
         border-radius: 0px 20px 20px 20px;
         background: $white;
         overflow: hidden;
+        transform: translateX(0);
+        opacity: 1;
+        pointer-events: auto;
+        transition: $transition;
+
+        &.hide {
+            position: absolute;
+            top: 73px;
+            right: 0;
+            left: 0;
+            opacity: 0;
+            pointer-events: none;
+            transform: translateX(-100px);
+        }
     }
 }
 
@@ -156,6 +176,12 @@ body {
 
         &:not(:first-child) {
             margin-top: 16px;
+        }
+
+        &_icon {
+            display: flex;
+            align-items: center;
+            gap: 16px;
         }
     }
 
