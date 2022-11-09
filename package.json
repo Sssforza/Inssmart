@@ -1,0 +1,16 @@
+{
+    "name": "my-project",
+    "source": "src/index.html",
+    "browserslist": "> 0.5%, last 2 versions, not dead",
+    "scripts": {
+        "start": "parcel",
+        "build": "rimraf ./dist && parcel build src/index.html --public-url '/'"
+    },
+    "devDependencies": {
+        "@parcel/transformer-sass": "^2.7.0",
+        "parcel": "latest"
+    },
+    "dependencies": {
+        "node-sass": "^7.0.3"
+    }
+}
