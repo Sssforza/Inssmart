@@ -5,3 +5,214 @@
 @import "modules/_fonts.scss";
 
 
+body {
+    font : {
+        family: 'Montserrat', sans-serif;
+        weight: 400;
+    }
+
+    color: $main;
+    background: $bg;
+}
+
+.main {
+    margin: 81px 102px;
+}
+
+.btn {
+    padding: 14px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 16px;
+    cursor: pointer;
+    transition: $transition;
+
+    &_blue {
+        font-size: 16px;
+        line-height: 150%;
+        color: $white;
+        background: $blue;
+
+        &:hover {
+            background: $blue-hover;
+        }
+
+        &:active {
+            background: $blue-click;
+        }
+    }
+}
+
+.card {
+    width: 846px;
+
+    &__content {
+        padding: 40px 60px;
+        border-radius: 0px 20px 20px 20px;
+        background: $white;
+        overflow: hidden;
+    }
+}
+
+.cardTabs {
+    display: flex;
+
+    &__change {
+        padding: 20px 24px;
+        font-weight: 500;
+        font-size: 22px;
+        line-height: 150%;
+        border-radius: 20px 20px 0px 0px;
+        background: $grey;
+        transition: $transition;
+        cursor: pointer;
+
+        &:hover {
+            color: $blue-hover;
+        }
+
+        &:active {
+            color: $blue-click;
+        }
+
+        &.active {
+            color: $blue;
+            background: $white;
+        }
+    }
+}
+
+.cardHeader {
+    display: flex;
+    justify-content: space-between;
+
+    &__img {
+        margin-left: -128px;
+
+        img {
+            display: block;
+            width: 358px;
+            height: 232px;
+        }
+    }
+
+    &__box {
+        width: 59%;
+    }
+
+    &__title {
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 150%;
+    }
+
+    &__text {
+        margin-top: 20px;
+        color: $text;
+
+        span {
+            display: block;
+            font-size: 16px;
+            line-height: 150%;
+
+            &:not(:first-child) {
+                margin-top: 16px;
+            }
+        }
+    }
+}
+
+.cardCharacteristic {
+    margin-top: 40px;
+    padding-top: 40px;
+    border-top: 1px solid $grey;
+
+    &__box {
+        &:not(:first-child) {
+            margin-top: 40px;
+        }
+    }
+
+    &__title {
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 150%;
+    }
+
+    &__list {
+        margin-top: 20px;
+        display: flex;
+    }
+
+    &__wrapper {
+        width: 42%;
+    }
+
+    &__item {
+        font-size: 16px;
+        line-height: 150%;
+        color: $text;
+
+        &:not(:first-child) {
+            margin-top: 16px;
+        }
+    }
+
+    &__form {
+        margin-top: 20px;
+        display: flex;
+        gap: 24px;
+    }
+
+    &__input {
+        input {
+            padding: 0 16px;
+            font-size: 16px;
+            line-height: 150%;
+            color: $main;
+            width: 351px;
+            height: 52px;
+            background: $white;
+            border: 1px solid $grey;
+            border-radius: 16px;
+            font-family: 'Montserrat', sans-serif;
+            transition: $transition;
+            @include placeholder(16px, $grey, 'Montserrat');
+
+            &:focus {
+                border: 1px solid $blue;
+            }
+        }
+    }
+}
+
+.cardSave {
+    margin-top: 40px;
+    padding: 30px 36px;
+    background: $white;
+    box-shadow: 0px 10px 40px rgba(12, 12, 12, 0.1);
+    border-radius: 20px;
+
+    &__content {
+        display: flex;
+        align-items: center;
+        gap: 34px;
+    }
+
+    &__cancel {
+        font-size: 16px;
+        line-height: 150%;
+        color: $main;
+        transition: $transition;
+        cursor: pointer;
+
+        &:hover {
+            color: $blue-hover;
+        }
+
+        &:active {
+            color: $blue-click;
+        }
+    }
+}
