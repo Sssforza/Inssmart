@@ -192,6 +192,12 @@ body {
     }
 
     &__input {
+        &.error {
+            input {
+                border: 1px solid red;
+            }
+        }
+
         input {
             padding: 0 16px;
             font-size: 16px;
@@ -209,6 +215,8 @@ body {
             &:focus {
                 border: 1px solid $blue;
             }
+
+
         }
     }
 }
