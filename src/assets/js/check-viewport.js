@@ -8,6 +8,6 @@ export function viewport() {
         viewport.setAttribute('content', 'width=1024');
     }
     if (window.innerWidth <= xs || device.mobile()) {
-        viewport.setAttribute('content', 'width=540');
+        viewport.setAttribute('content', 'width=375');
     }
 }
