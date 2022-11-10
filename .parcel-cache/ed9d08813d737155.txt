@@ -44,7 +44,7 @@
 47C:\project\Inssmart\node_modules\is-binary-path133124627705291649 1
 42C:\project\Inssmart\node_modules\@mischnic133124627639984884 1
 106C:\project\Inssmart\node_modules\@parcel\runtime-browser-hmr\node_modules\@parcel\utils\src\escape-html.js121436361000000000 0
-24C:\project\Inssmart\dist133125474001048500 1
+24C:\project\Inssmart\dist133125475580948429 1
 88C:\project\Inssmart\node_modules\@parcel\compressor-raw\node_modules\@parcel\watcher\src133124646491538222 1
 58C:\project\Inssmart\node_modules\asynckit\lib\streamify.js131101671020000000 0
 71C:\project\Inssmart\node_modules\terser\node_modules\commander\index.js121436361000000000 0
@@ -90,7 +90,7 @@
 98C:\project\Inssmart\node_modules\@parcel\transformer-raw\node_modules\@parcel\utils\src\urlJoin.js121436361000000000 0
 85C:\project\Inssmart\node_modules\@npmcli\fs\node_modules\semver\internal\constants.js121436361000000000 0
 41C:\project\Inssmart\node_modules\ecc-jsbn133124627695628655 1
-29C:\project\Inssmart\README.md133119406980564651 0
+29C:\project\Inssmart\README.md133125475484111857 0
 74C:\project\Inssmart\node_modules\node-gyp-build-optional-packages\index.js121436361000000000 0
 94C:\project\Inssmart\node_modules\@parcel\packager-svg\node_modules\@parcel\plugin\package.json133124646579136873 0
 38C:\project\Inssmart\node_modules\p-try133124627743984055 1
@@ -4012,7 +4012,7 @@
 54C:\project\Inssmart\node_modules\strip-indent\index.js121436361000000000 0
 88C:\project\Inssmart\node_modules\@parcel\core\node_modules\@parcel\workers\src\Worker.js121436361000000000 0
 59C:\project\Inssmart\node_modules\csso\lib\replace\String.js121436361000000000 0
-35C:\project\Inssmart\dist\index.html133125474000968504 0
+35C:\project\Inssmart\dist\index.html133125475580868106 0
 78C:\project\Inssmart\node_modules\resolve\test\module_dir\xmodules\aaa\index.js121436361000000000 0
 58C:\project\Inssmart\node_modules\strip-indent\package.json133118530108440766 0
 81C:\project\Inssmart\node_modules\node-sass\test\fixtures\depth-first\_struct.scss121436361000000000 0
@@ -5006,7 +5006,7 @@
 65C:\project\Inssmart\node_modules\resolve\test\resolver\cup.coffee121436361000000000 0
 72C:\project\Inssmart\node_modules\read-pkg\node_modules\type-fest\license121436361000000000 0
 97C:\project\Inssmart\node_modules\@parcel\packager-raw\node_modules\@parcel\watcher\src\Backend.cc121436361000000000 0
-46C:\project\Inssmart\dist\index.0988729a.js.map133125474000968504 0
+46C:\project\Inssmart\dist\index.0988729a.js.map133125475580948429 0
 69C:\project\Inssmart\node_modules\resolve\test\resolver\dot_slash_main133124627751605933 1
 126C:\project\Inssmart\node_modules\@parcel\core\node_modules\@parcel\package-manager\test\fixtures\packages\foo-2.0\package.json121436361000000000 0
 65C:\project\Inssmart\node_modules\resolve\test\resolver\false_main133124627751605933 1
@@ -10600,7 +10600,7 @@
 96C:\project\Inssmart\node_modules\@parcel\compressor-raw\node_modules\@parcel\fs\src\OverlayFS.js121436361000000000 0
 67C:\project\Inssmart\node_modules\css-tree\lib\syntax\pseudo\lang.js121436361000000000 0
 70C:\project\Inssmart\node_modules\css-tree\lib\syntax\pseudo\matches.js121436361000000000 0
-56C:\project\Inssmart\dist\Montserrat-Medium.8e8ffb82.woff133125473990356224 0
+56C:\project\Inssmart\dist\Montserrat-Medium.8e8ffb82.woff133125475580868106 0
 66C:\project\Inssmart\node_modules\css-tree\lib\syntax\pseudo\not.js121436361000000000 0
 72C:\project\Inssmart\node_modules\css-tree\lib\syntax\pseudo\nth-child.js121436361000000000 0
 78C:\project\Inssmart\node_modules\@parcel\watcher\src\windows\WindowsBackend.hh121436361000000000 0
@@ -14064,7 +14064,7 @@
 99C:\project\Inssmart\node_modules\@parcel\transformer-babel\node_modules\@parcel\events\package.json133124646577204824 0
 99C:\project\Inssmart\node_modules\@parcel\transformer-json\node_modules\@parcel\workers\lib\child.js121436361000000000 0
 104C:\project\Inssmart\node_modules\@parcel\transformer-json\node_modules\@parcel\workers\lib\childState.js121436361000000000 0
-53C:\project\Inssmart\dist\Montserrat-Bold.4e3e032a.ttf133125473990356224 0
+53C:\project\Inssmart\dist\Montserrat-Bold.4e3e032a.ttf133125475580948429 0
 102C:\project\Inssmart\node_modules\@parcel\transformer-json\node_modules\@parcel\workers\lib\cpuCount.js121436361000000000 0
 100C:\project\Inssmart\node_modules\@parcel\optimizer-svgo\node_modules\@parcel\plugin\lib\PluginAPI.js121436361000000000 0
 99C:\project\Inssmart\node_modules\@parcel\transformer-json\node_modules\@parcel\workers\lib\index.js121436361000000000 0
@@ -14715,7 +14715,7 @@
 95C:\project\Inssmart\node_modules\@parcel\transformer-js\node_modules\@parcel\cache\lib\types.js121436361000000000 0
 93C:\project\Inssmart\node_modules\@parcel\packager-svg\node_modules\@parcel\hash\index.js.flow121436361000000000 0
 89C:\project\Inssmart\node_modules\@parcel\runtime-react-refresh\src\ReactRefreshRuntime.js121436361000000000 0
-42C:\project\Inssmart\dist\index.0988729a.js133125474000968504 0
+42C:\project\Inssmart\dist\index.0988729a.js133125475580868106 0
 73C:\project\Inssmart\node_modules\@parcel\transformer-js\lib\loadNative.js121436361000000000 0
 66C:\project\Inssmart\node_modules\@parcel\transformer-image\LICENSE121436361000000000 0
 98C:\project\Inssmart\node_modules\@parcel\transformer-babel\node_modules\@parcel\workers\lib\bus.js121436361000000000 0
@@ -17814,7 +17814,7 @@
 114C:\project\Inssmart\node_modules\@parcel\packager-svg\node_modules\@parcel\package-manager\src\NodeResolverBase.js121436361000000000 0
 116C:\project\Inssmart\node_modules\@parcel\packager-svg\node_modules\@parcel\package-manager\src\promiseFromProcess.js121436361000000000 0
 103C:\project\Inssmart\node_modules\@parcel\packager-svg\node_modules\@parcel\package-manager\src\types.js121436361000000000 0
-42C:\project\Inssmart\dist\bike.35e7f99a.png133125473998457141 0
+42C:\project\Inssmart\dist\bike.35e7f99a.png133125475580868106 0
 103C:\project\Inssmart\node_modules\@parcel\packager-svg\node_modules\@parcel\package-manager\src\utils.js121436361000000000 0
 121C:\project\Inssmart\node_modules\@parcel\packager-svg\node_modules\@parcel\package-manager\src\validateModuleSpecifier.js121436361000000000 0
 102C:\project\Inssmart\node_modules\@parcel\packager-svg\node_modules\@parcel\package-manager\src\Yarn.js121436361000000000 0
@@ -20600,7 +20600,7 @@
 84C:\project\Inssmart\node_modules\@parcel\core\test\fixtures\config-extends-not-found133124646490236606 1
 80C:\project\Inssmart\node_modules\@parcel\core\test\fixtures\config-node-pipeline133124646488145550 1
 83C:\project\Inssmart\node_modules\@parcel\core\test\fixtures\config-plugin-not-found133124646488676568 1
-56C:\project\Inssmart\dist\Montserrat-Regular.ebbd39f8.ttf133125473990356224 0
+56C:\project\Inssmart\dist\Montserrat-Regular.ebbd39f8.ttf133125475580948429 0
 67C:\project\Inssmart\node_modules\@parcel\core\test\fixtures\context133124646519441820 1
 83C:\project\Inssmart\node_modules\@parcel\core\test\fixtures\custom-format-infer-ext133124646519682419 1
 84C:\project\Inssmart\node_modules\@parcel\core\test\fixtures\custom-format-infer-type133124646520772129 1
@@ -21538,14 +21538,14 @@
 46C:\project\Inssmart\node_modules\.bin\svgo.cmd133118533075707218 0
 44C:\project\Inssmart\node_modules\.bin\terser133118533075727219 0
 48C:\project\Inssmart\node_modules\.bin\terser.cmd133118533075727219 0
-49C:\project\Inssmart\dist\bike-female.93f99285.png133125474000174044 0
-43C:\project\Inssmart\dist\index.2cfa6f1a.css133125474000968504 0
-47C:\project\Inssmart\dist\index.2cfa6f1a.css.map133125474000968504 0
-42C:\project\Inssmart\dist\index.bd7be9a6.js133125474000968504 0
-46C:\project\Inssmart\dist\index.bd7be9a6.js.map133125474000968504 0
-55C:\project\Inssmart\dist\Montserrat-Bold.3b75357b.woff2133125473990356224 0
-54C:\project\Inssmart\dist\Montserrat-Bold.63e09a29.woff133125473990356224 0
-57C:\project\Inssmart\dist\Montserrat-Medium.921b3025.woff2133125473990356224 0
-55C:\project\Inssmart\dist\Montserrat-Medium.c84f8aac.ttf133125473990356224 0
-57C:\project\Inssmart\dist\Montserrat-Regular.91562280.woff133125473990356224 0
-58C:\project\Inssmart\dist\Montserrat-Regular.cd051080.woff2133125473990356224 0
+49C:\project\Inssmart\dist\bike-female.93f99285.png133125475580868106 0
+43C:\project\Inssmart\dist\index.2cfa6f1a.css133125475580868106 0
+47C:\project\Inssmart\dist\index.2cfa6f1a.css.map133125475580948429 0
+42C:\project\Inssmart\dist\index.bd7be9a6.js133125475580868106 0
+46C:\project\Inssmart\dist\index.bd7be9a6.js.map133125475580948429 0
+55C:\project\Inssmart\dist\Montserrat-Bold.3b75357b.woff2133125475580868106 0
+54C:\project\Inssmart\dist\Montserrat-Bold.63e09a29.woff133125475580868106 0
+57C:\project\Inssmart\dist\Montserrat-Medium.921b3025.woff2133125475580868106 0
+55C:\project\Inssmart\dist\Montserrat-Medium.c84f8aac.ttf133125475580948429 0
+57C:\project\Inssmart\dist\Montserrat-Regular.91562280.woff133125475580868106 0
+58C:\project\Inssmart\dist\Montserrat-Regular.cd051080.woff2133125475580868106 0
